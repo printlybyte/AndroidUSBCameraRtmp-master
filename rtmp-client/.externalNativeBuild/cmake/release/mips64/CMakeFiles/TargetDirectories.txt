@@ -1,0 +1,3 @@
+F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/.externalNativeBuild/cmake/release/mips64/CMakeFiles/rtmp-jni.dir
+F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/.externalNativeBuild/cmake/release/mips64/CMakeFiles/edit_cache.dir
+F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/.externalNativeBuild/cmake/release/mips64/CMakeFiles/rebuild_cache.dir

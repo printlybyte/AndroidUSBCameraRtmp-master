@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuguodong\.android\build-cache\3193faea64d5953675d68fc0b56c3ee0a24d26f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\pre-dexed\debug\classes_ab7457a19efa6429ac1cd3ff216caac4f4e5f582.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuguodong\.android\build-cache\d7bc2e84cc6d716c3d4f8c61b1eec7ec763d2794\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\pre-dexed\debug\classes_dd8d60b1fbeb742aaba462a1e4944c82a7c59dff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuguodong\.android\build-cache\d44abc28f1e59fac8949d0a2cae7a42b32719d35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\pre-dexed\debug\classes_74d5c27c949e6fd40d15abfe0321c2765aa11d97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuguodong\.android\build-cache\911d1dc469dd3b2ac4362d54e153ee1a49a30c13\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\pre-dexed\debug\classes_d82f0cf75e656ab882b398dbf5537fc09431f61f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuguodong\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.8.1_b254d86e9991002e2cfbe09f86326b2c6e33e0f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuguodong\.android\build-cache\9c9cdffdd3f8c6b2758866893b514faaec93cd16\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\pre-dexed\debug\classes_d81d6f932204714d5ee6d53ec1e8aa157618d5c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuguodong\.android\build-cache\d9442bfffcbe826d31d22d3c0c78026f639226f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\pre-dexed\debug\classes_b21bb8fd5a65e6f44441d17c8d53e50a05a31c6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuguodong\.android\build-cache\b58563e5ca44e82b20f04a5c2f115acdca149fa7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\pre-dexed\debug\classes_dfaa97898c55053cf9d2be01c288cf170c702e71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuguodong\.android\build-cache\3cf2bfecf41fb2b5bae80d1d50a844bd0a1d5ece\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\pre-dexed\debug\classes_6bef0489f67ab54cfae58f53159343329135a783.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8d0c8665ceb67f09df255288825f6ad0e8ff9341">
+        <dex dex="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_26d2a0b37a72c215cd839e4ce9ceabcdc3a6271b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuguodong\.android\build-cache\6917c5e7d2bd5ce3e843adb9449f14640f82762d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e8d0b8d28c8d1b9b05f2c92c2f3501767a00b59c">
+        <dex dex="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\pre-dexed\debug\classes_41be6eb3ba00273a2c549b47c514921e4d20f24c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\studioworking2222\AndroidUSBCamera-master\libusbcamera\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c40dbe620a436a6b1a1db371d4904bf2d0739a2a">
+        <dex dex="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\pre-dexed\debug\classes_61f2f4e9c6f769b86fb647f6f82bb0ccafd2838a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\studioworking2222\AndroidUSBCamera-master\rtmp-client\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b3931fbf1685119f7a697f8107d1b9859af4bbde">
+        <dex dex="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\pre-dexed\debug\classes_07d3de564a6116db6d79bb455a7c497fa5a0a72f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a54af48f8ebbb83619d49d9060d1d7ba69451bab\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuguodong\.android\build-cache\f68cb69e3c71572f8a3acb9591f454eb218f96aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\pre-dexed\debug\classes_dc564ffb958c841fe6af110d195ad7cfa9cf46ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuguodong\.android\build-cache\fec3e84116d31f11662d3890ad789d8cf59a6182\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\pre-dexed\debug\classes_7ddc96b291222e349aad7e8fba07c8972340e04d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuguodong\.android\build-cache\bfb69a2127b2ecd9b0836c1788d1536d01327546\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\pre-dexed\debug\classes_24c9420e125fe30349a0e126059ce931c7f226b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Users\Administrator\AppData\Local\Android\sdk22\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\studioworking2222\AndroidUSBCamera-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_b18caedecbc54535f6ee5ff0139f2f3b757d36aa.jar" />
+    </item>
+
+</items>

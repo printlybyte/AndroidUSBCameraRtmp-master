@@ -1,0 +1,16 @@
+Executable : F:\Users\Administrator\AppData\Local\Android\sdk22\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HF:\studioworking2222\AndroidUSBCamera-master\rtmp-client
+-BF:\studioworking2222\AndroidUSBCamera-master\rtmp-client\.externalNativeBuild\cmake\release\armeabi-v7a
+-GAndroid Gradle - Ninja
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_NDK=F:\Users\Administrator\AppData\Local\Android\sdk22\ndk-bundle
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=F:\studioworking2222\AndroidUSBCamera-master\rtmp-client\build\intermediates\cmake\release\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_MAKE_PROGRAM=F:\Users\Administrator\AppData\Local\Android\sdk22\cmake\3.6.4111459\bin\ninja.exe
+-DCMAKE_TOOLCHAIN_FILE=F:\Users\Administrator\AppData\Local\Android\sdk22\ndk-bundle\build\cmake\android.toolchain.cmake
+-DANDROID_PLATFORM=android-16
+-DCMAKE_CXX_FLAGS=-frtti -fexceptions
+-DANDROID_PLATFORM=android-15
+jvmArgs : 
+

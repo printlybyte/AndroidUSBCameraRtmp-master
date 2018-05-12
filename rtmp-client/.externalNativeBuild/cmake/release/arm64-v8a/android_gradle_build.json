@@ -1,0 +1,83 @@
+
+{
+	"buildFiles" : 
+	[
+		"F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"F:\\Users\\Administrator\\AppData\\Local\\Android\\sdk22\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\studioworking2222\\AndroidUSBCamera-master\\rtmp-client\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target clean"
+	],
+	"libraries" : 
+	{
+		"rtmp-jni-Release-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "rtmp-jni",
+			"buildCommand" : "F:\\Users\\Administrator\\AppData\\Local\\Android\\sdk22\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\studioworking2222\\AndroidUSBCamera-master\\rtmp-client\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target rtmp-jni",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/sysroot -DNO_CRYPTO -Drtmp_jni_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\librtmp  -isystem F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/src/main/cpp/rtmpmuxer.c",
+					"workingDirectory" : "F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/sysroot -DNO_CRYPTO -Drtmp_jni_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\librtmp  -isystem F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/src/main/cpp/librtmp-jni.c",
+					"workingDirectory" : "F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/sysroot -DNO_CRYPTO -Drtmp_jni_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\librtmp  -isystem F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/src/main/cpp/librtmp/amf.c",
+					"workingDirectory" : "F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/sysroot -DNO_CRYPTO -Drtmp_jni_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\librtmp  -isystem F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/src/main/cpp/librtmp/hashswf.c",
+					"workingDirectory" : "F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/sysroot -DNO_CRYPTO -Drtmp_jni_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\librtmp  -isystem F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/src/main/cpp/librtmp/log.c",
+					"workingDirectory" : "F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/sysroot -DNO_CRYPTO -Drtmp_jni_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\librtmp  -isystem F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/src/main/cpp/librtmp/parseurl.c",
+					"workingDirectory" : "F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/sysroot -DNO_CRYPTO -Drtmp_jni_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\librtmp  -isystem F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/src/main/cpp/librtmp/rtmp.c",
+					"workingDirectory" : "F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/sysroot -DNO_CRYPTO -Drtmp_jni_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\librtmp  -isystem F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/src/main/cpp/flvmuxer/xiecc_rtmp.c",
+					"workingDirectory" : "F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/.externalNativeBuild/cmake/release/arm64-v8a"
+				}
+			],
+			"output" : "F:/studioworking2222/AndroidUSBCamera-master/rtmp-client/build/intermediates/cmake/release/obj/arm64-v8a/librtmp-jni.so",
+			"toolchain" : "916559597"
+		}
+	},
+	"toolchains" : 
+	{
+		"916559597" : 
+		{
+			"cCompilerExecutable" : "F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "F:/Users/Administrator/AppData/Local/Android/sdk22/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

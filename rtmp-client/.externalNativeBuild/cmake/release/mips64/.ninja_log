@@ -1,0 +1,10 @@
+# ninja log v5
+1447	3597	0	CMakeFiles/rtmp-jni.dir/src/main/cpp/librtmp/hashswf.c.o	9d084aba5e2d759b
+317	4580	0	CMakeFiles/rtmp-jni.dir/src/main/cpp/librtmp-jni.c.o	8f339a9cef0bc7b6
+2210	6389	0	CMakeFiles/rtmp-jni.dir/src/main/cpp/librtmp/log.c.o	c56d6925f6da38b8
+2	6391	0	CMakeFiles/rtmp-jni.dir/src/main/cpp/rtmpmuxer.c.o	4b322db1165ce499
+2894	6433	0	CMakeFiles/rtmp-jni.dir/src/main/cpp/librtmp/parseurl.c.o	318bf47251b3daf8
+733	6757	0	CMakeFiles/rtmp-jni.dir/src/main/cpp/librtmp/amf.c.o	72cd858e9aeda5a4
+4580	8103	0	CMakeFiles/rtmp-jni.dir/src/main/cpp/flvmuxer/xiecc_rtmp.c.o	b37ce5cfff2a9217
+3597	8469	0	CMakeFiles/rtmp-jni.dir/src/main/cpp/librtmp/rtmp.c.o	f080408dcfe77f89
+8469	9783	0	../../../../build/intermediates/cmake/release/obj/mips64/librtmp-jni.so	3bffbd5f4d4790ff
